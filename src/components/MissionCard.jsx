@@ -8,11 +8,15 @@ export default class MissionsCard extends React.Component {
     const { country } = this.props;
     const { destination } = this.props;
     return (
-      <div data-testid="mission-card">
-        <p data-testid="mission-name">{name}</p>
-        <p data-testid="mission-year">{year}</p>
-        <p data-testid="mission-country">{country}</p>
-        <p data-testid="mission-destination">{destination}</p>
+      <div className="mission-card" data-testid="mission-card">
+        <p className="mission" data-testid="mission-name">{name}</p>
+        <div>
+          <p data-testid="mission-year">{year}</p>
+          <p data-testid="mission-country">{country}</p>
+          <p data-testid="mission-destination">{destination}</p>
+
+        </div>
+
       </div>
     );
   }

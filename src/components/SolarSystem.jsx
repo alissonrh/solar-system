@@ -8,7 +8,7 @@ export default class SolarSystem extends React.Component {
     return (
       <div data-testid="solar-system">
         <Title headline="Planetas" />
-        <div>
+        <div className="planet-content">
           {planets.map((planet) => (
             <PlanetCard
               key={ planet.name }

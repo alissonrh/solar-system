@@ -8,7 +8,7 @@ export default class Missions extends React.Component {
     return (
       <div data-testid="missions">
         <Title headline="Missões" />
-        <div>
+        <div className="mission-content">
           {missions.map((mission) => (
             <MissionCard
               key={ mission.name }
