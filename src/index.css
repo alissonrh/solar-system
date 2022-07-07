@@ -90,7 +90,6 @@ body {
 
 .mission-content {
   max-width: 1140px;
-  ;
   margin-top: 39px;
   display: flex;
   gap: 39px;
@@ -111,3 +110,4 @@ body {
   padding-left: 36px;
   padding-bottom: 36px;
 }
+
