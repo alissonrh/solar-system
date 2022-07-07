@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app-toot-name/static/css/main.5b88e0ec.css",
+    "main.js": "/app-toot-name/static/js/main.8c464dd5.js",
+    "static/media/background.png": "/app-toot-name/static/media/background.0dced38ca9c5cd176fed.png",
+    "static/media/Mercurio.png": "/app-toot-name/static/media/Mercurio.a7105a56cdf707dc3cce.png",
+    "static/media/Terra.png": "/app-toot-name/static/media/Terra.990ac782d3b62d230d28.png",
+    "static/media/Venus.png": "/app-toot-name/static/media/Venus.397fdee264550fe0d0d1.png",
+    "static/media/Marte.png": "/app-toot-name/static/media/Marte.6cae79d3ef1a90069610.png",
+    "static/media/Jupiter.png": "/app-toot-name/static/media/Jupiter.529cdbe0cad25f29f533.png",
+    "static/media/Netuno.png": "/app-toot-name/static/media/Netuno.48cf14b71b63a23d6f8a.png",
+    "static/media/Saturno.png": "/app-toot-name/static/media/Saturno.00b7295f54e9af9bbe90.png",
+    "static/media/Urano.png": "/app-toot-name/static/media/Urano.607cb33ce7cb511e3d9c.png",
+    "index.html": "/app-toot-name/index.html",
+    "main.5b88e0ec.css.map": "/app-toot-name/static/css/main.5b88e0ec.css.map",
+    "main.8c464dd5.js.map": "/app-toot-name/static/js/main.8c464dd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b88e0ec.css",
+    "static/js/main.8c464dd5.js"
+  ]
+}
