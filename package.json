@@ -5,7 +5,7 @@
   "engines": {
     "node": "16"
   },
-  "homepage": "https://username.github.io/app-toot-name",
+  "homepage": "https://alissonrh.github.io/solar-system/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
